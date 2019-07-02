@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\forgesample\forgesample\bin\Debug\netcoreapp2.1\forgesample.deps.json
+C:\Users\Administrator\source\repos\forgesample\forgesample\bin\Debug\netcoreapp2.1\forgesample.runtimeconfig.json
+C:\Users\Administrator\source\repos\forgesample\forgesample\bin\Debug\netcoreapp2.1\forgesample.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\forgesample\forgesample\bin\Debug\netcoreapp2.1\forgesample.dll
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\forgesample\forgesample\bin\Debug\netcoreapp2.1\forgesample.pdb
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.dll
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\forgesample.pdb
+C:\Users\Administrator\source\repos\forgesample\forgesample\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
